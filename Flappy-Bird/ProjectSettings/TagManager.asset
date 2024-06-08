@@ -42,6 +42,12 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: Object Layer
+  - name: Background
     uniqueID: 2770405841
+    locked: 0
+  - name: Particles
+    uniqueID: 3679112239
+    locked: 0
+  - name: Foreground
+    uniqueID: 1911923033
     locked: 0
